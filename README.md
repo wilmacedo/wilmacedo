@@ -1,4 +1,17 @@
-### Hi there 👋
+# Wil Macedo
+
+Software Engineer
+
+Formely at [@Klever](https://klever.io), [@Progy](https://progy.com.br).
+
+DX, UI, Performance and Architectury are my favorite topics.
+
+Linkedin: [@wilmacedo](https://linkedin.com/in/wilmacedo)  
+Youtube: [@wilmacedo](https://youtube.com/@wilmacedo)  
+Instagram: [@wil.macedo](https://instagram.com/wil.macedo)
+
+Reach out at [wil.macedo.sa@gmail.com](mailto:wil.macedo.sa@gmail.com)
+
 
 <!--
 **wilmacedo/wilmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
