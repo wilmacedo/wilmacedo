@@ -2,7 +2,7 @@
 
 Software Engineer
 
-Formely at [@Klever](https://klever.io), [@Progy](https://progy.com.br).
+Currently at [@Klever](https://klever.io), [@Progy](https://progy.com.br).
 
 DX, UI, Performance and Architectury are my favorite topics.
 
