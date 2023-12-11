@@ -1,6 +1,6 @@
 # Wil Macedo
 
-Software Engineer
+Senior Software Engineer
 
 Currently at [@Klever](https://klever.io), [@Progy](https://progy.com.br).
 
