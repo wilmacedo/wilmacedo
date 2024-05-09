@@ -2,7 +2,7 @@
 
 Senior Software Engineer
 
-Currently at [@ModeMobile]([https://klever.io](https://modemobile.com/), [@Progy](https://progy.com.br).
+Currently at [@ModeMobile](https://modemobile.com/), [@Progy](https://progy.com.br).
 
 DX, UI, Performance and Architectury are my favorite topics.
 
